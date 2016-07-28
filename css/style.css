@@ -1,0 +1,48 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #383838;
+	font-weight: 400;
+}
+
+.text-muted {
+	color: #1a7b72;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.text-thin {
+	font-weight: 300;
+}
+
+
+
+.title-logo {
+	margin-top: 20px;
+}
+
+.title-super {
+	font-family: 'Oswald', sans-serif;
+	font-size: 70px;
+}
+
+.subtitle {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+}
+
+.modal-body p {
+	margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+            .title-logo {
+            	text-align: center;
+            }
+
+            .title-text {
+            	text-align: center;
+            }
+
+            .img-center {
+            	margin: 0 auto;
+            }
+        }
