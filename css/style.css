@@ -33,6 +33,17 @@ body {
 	margin-top: 10px;
 }
 
+footer {
+	margin-top: 20px;
+	height: 60px;
+	color: #383838;
+	line-height: 60px;
+}
+
+footer a {
+	color: #1a7b72;
+}
+
 @media (max-width: 768px) {
             .title-logo {
             	text-align: center;
